@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Saqlain Shahid </span>
             from <span className="purple"> Patna, Bihar.</span>
             <br />
-            I am a <span className="purple">Fresher</span> and currently looking for an opportunity.
+            I am a <span className="purple">Fresher</span>, looking for an opportunity.
             <br />
-            I am currently pursuing my <span className="purple">B.Tech</span> from <span className="purple">Corporate Intitute of Science & Technology (Bhopal).</span>
+            I am pursuing my <span className="purple">B.Tech</span> from <span className="purple">Corporate Intitute of Science & Technology (Bhopal).</span>
             <br />
             Currently I'm in my Final year [2020-2024].
             <br />

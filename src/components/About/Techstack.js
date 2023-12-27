@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
+import { FaBootstrap } from "react-icons/fa";
 import {
   DiJavascript1,
   DiReact,
@@ -10,8 +11,8 @@ import {
   DiJava,
 } from "react-icons/di";
 import {
-  SiNextdotjs,
   SiRedux,
+  SiTailwindcss,
 } from "react-icons/si";
 
 
@@ -31,6 +32,9 @@ function Techstack() {
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+      <FaBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -40,7 +44,7 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+      <SiTailwindcss />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
