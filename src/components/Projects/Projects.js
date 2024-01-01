@@ -27,9 +27,9 @@ function Projects() {
               title="StudyNotion"
               description="Fully functional ED-TECH platform that enables users to create, consume and rate educational content."
               description2="Built using MERN Stack Technology."
-              description3="By the use of local storage, managed to reduce the API calls upto 30% and improving overall performance upto 20%"
+              description3="A secure user authentication and authorization system, features like OTP (One-Time Password) and JWT (JSON Web Token) to enhance data protection and access control"
               ghLink="https://github.com/saqlain-shahid/StudyNotion.git"
-              // demoLink="https:/"
+              demoLink="https://saqlain-studynotion.vercel.app"
             />
           </Col>
 
