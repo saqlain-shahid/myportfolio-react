@@ -50,7 +50,7 @@ function Projects() {
               imgPath={ytss}
 
               title="YouTube-Lite"
-              description="Integrated cost-effective free YouTube API with usage limits, if the DATA is not showing that means API reached usage limits."
+              description="Integrated cost-effective free YouTube API with 100/month usage limits, if the DATA is not showing that means API reached usage limits."
               description2="Developed a YouTube clone using React.js and integrated the YouTube API for real-time data."
               description3="Implemented key features including category sections (Home, Trending, Music, etc.), robust search
               functionality and a video player utilizing React Player."
