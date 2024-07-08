@@ -13,12 +13,12 @@ function AboutCard() {
             <br />
             I am a <span className="purple">Fresher</span>, looking for an opportunity.
             <br />
-            I am pursuing my <span className="purple">B.Tech</span> from <span className="purple">Corporate Intitute of Science & Technology (Bhopal).</span>
+            I have recently completed my <span className="purple">B.Tech</span> from <span className="purple">Corporate Intitute of Science & Technology (Bhopal).</span>
+          
+            
             <br />
-            Currently I'm in my Final year [2020-2024].
-            <br />
-            My <span className="purple">CGPA - 8.1 (6th Semester)</span>
-            <br/>
+            With Overall <span className="purple">CGPA - 8.21</span>
+            
             <br/>
             <br/>
             Apart from coding, some other activities that I love to do!

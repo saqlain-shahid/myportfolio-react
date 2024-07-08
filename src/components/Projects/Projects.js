@@ -40,8 +40,8 @@ function Projects() {
               title="Currency Convertor"
               description="Developed a currency converter web application using React.js, providing real-time exchange rate calculations."
               description2="Integrated external APIs to fetch and update currency exchange rates, ensuring accurate and up-to-date information."
-              ghLink="https://github.com/saqlain-shahid/currencyConvertor.git"
-              demoLink="https://saqlain-currencyconvertor.vercel.app"
+              ghLink="https://github.com/saqlain-shahid/currency-converter.git"
+              demoLink="https://saqlain-currencyconverter.vercel.app"
             />
           </Col>
 

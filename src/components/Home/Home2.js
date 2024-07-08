@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I learnt languages so far, like
               <i>
-                <b className="purple"> C++, Javascript and Java. </b>
+                <b className="purple"> C++, Python, Javascript and Java. </b>
               </i>
               <br />
               <br />
@@ -73,7 +73,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/nawabshahidking"
+                  href="https://twitter.com/_saqlain_shahid"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -93,7 +93,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/therealsaqlainshahid"
+                  href="https://www.instagram.com/saqlainsig"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
